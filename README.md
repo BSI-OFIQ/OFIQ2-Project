@@ -7,4 +7,4 @@ standard; see [https://bsi.bund.de/dok/OFIQ-e](https://bsi.bund.de/dok/OFIQ-e).
 
 # Preview
 
-A preview for OFIQ2 is made available at the [https://github.com/BSI-OFIQ/OFIQ2-Project/tree/develop](develop branch) of this repository.
+A preview for OFIQ2 is made available at the [develop branch](https://github.com/BSI-OFIQ/OFIQ2-Project/tree/develop) of this repository.
